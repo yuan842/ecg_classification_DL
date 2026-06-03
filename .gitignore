@@ -4,3 +4,7 @@ experiments*/*
 data_overviews/*
 wandb/*
 results/
+.DS_Store
+**/.DS_Store
+chopblock/Vivalink20230817/
+chopblock/blocks_10min/
